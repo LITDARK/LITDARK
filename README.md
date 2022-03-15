@@ -2,4 +2,4 @@
 - A MUGer from People's Republic of China
 
 
-- More at https://LITDARK.cn
+- More at https://LITDARK.xyz
