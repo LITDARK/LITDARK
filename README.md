@@ -1,5 +1,5 @@
 - This is @LITDARK
-- A MUGer from People's Republic of China
+- A MUG player from People's Republic of China
 
 
 - More at https://LITDARK.xyz
